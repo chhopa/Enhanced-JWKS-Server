@@ -1,0 +1,6 @@
+Flask==3.0.0
+pycryptodome==3.20.0
+argon2-cffi==23.1.0
+python-dotenv==1.0.1
+pytest==8.3.4
+coverage==7.6.1
