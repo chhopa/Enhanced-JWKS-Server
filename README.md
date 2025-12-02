@@ -54,8 +54,8 @@ A Flask-based web server that implements a JSON Web Key Set (JWKS) endpoint for 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/chhopa/JWKS-Server.git
-   cd JWKS-Server
+   git clone https://github.com/chhopa/Enhanced-JWKS-Server.git
+   cd Enhanced-JWKS-Server
    ```
 
 2. **Create a virtual environment**
